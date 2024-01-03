@@ -1,0 +1,5 @@
+Eu fiz esse 'template' para que os professores escrevam dentro do retângulo e então tiramos print da imagem e adicionamos no repositório manualmente colocando o titulo padrão 'imageX.png' onde X é um número qualquer, não necessáriamente o dígito escrito.
+
+Essas imagens que estão no repositório foram feitas por mim com o mouse. Algumas foram acertadas, outras não. Coloquei só p vcs verem como exemplo.
+
+Não sei se vai ser uma boa para apresentação, depois me digam o que vcs acham. Eu achei muuuuito interessante implementar isso na nossa apresentação, mas se o nosso modelo errar a previsão vai ser meio sem graça, né? Então, não sei.
